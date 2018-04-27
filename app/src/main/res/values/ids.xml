@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item name="imgClubLogo" type="id" />
+    <item name="edtName" type="id" />
+    <item name="btnTest" type="id" />
+</resources>
